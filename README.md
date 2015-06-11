@@ -11,8 +11,7 @@ The net is a convolutional neural net (CNN) based on the 2012 Nips Paper by Kriz
 
 TO DO:
 -This will contain the trained caffemodels and solverstates, in the respective directories
--This will contain the csv files used to tag data from Amazon's Mechanical Turk service
--This will contain the datasets used
+
 -This will contain the c++ programm for scraping the csv files
 -This will contain the results from halving the dataset to see its impact on the data
--This will contain a readme for running using the nets for traind, testing, and classification purposes
+-This will contain a readme for running using the nets for training, testing, and classification purposes
